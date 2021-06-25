@@ -1,0 +1,16 @@
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\bin\Debug\net5.0\GridGenerator.exe
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\bin\Debug\net5.0\GridGenerator.deps.json
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\bin\Debug\net5.0\GridGenerator.runtimeconfig.json
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\bin\Debug\net5.0\GridGenerator.runtimeconfig.dev.json
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\bin\Debug\net5.0\GridGenerator.dll
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\bin\Debug\net5.0\ref\GridGenerator.dll
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\bin\Debug\net5.0\GridGenerator.pdb
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\obj\Debug\net5.0\GridGenerator.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\obj\Debug\net5.0\GridGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\obj\Debug\net5.0\GridGenerator.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\obj\Debug\net5.0\GridGenerator.AssemblyInfo.cs
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\obj\Debug\net5.0\GridGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\obj\Debug\net5.0\GridGenerator.dll
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\obj\Debug\net5.0\ref\GridGenerator.dll
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\obj\Debug\net5.0\GridGenerator.pdb
+C:\Users\ferna\source\repos\GridGenerator\GridGenerator\obj\Debug\net5.0\GridGenerator.genruntimeconfig.cache
